@@ -1,8 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 git has a mutable index called stage.
-<<<<<<< HEAD
 i believe:the dream will always shine in a distant day! & 123
-=======
-i believe:the dream will always shine in a distant day! & 123
->>>>>>> featurel
